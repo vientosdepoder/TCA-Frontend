@@ -1,0 +1,11974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="Prop_Exar_Abr_17Explor_Explot" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Prop-Exar-Abr-2017-Explor-Explot</name>
+	<open>1</open>
+	<Snippet maxLines="0"></Snippet>
+	<StyleMap id="PolyStyle001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="PolyStyle000">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fff5eec6</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fff5eec6</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>Prop-Exar-Abr-2017-Explor-Explot</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Tito</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1573</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>48-P-1998</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>TITO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.77436742279134,-23.96301660647741,0 -66.78151042140979,-23.97983739315303,0 -66.7769337279745,-23.9814782996022,0 -66.76979122008734,-23.96465729051221,0 -66.77436742279134,-23.96301660647741,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Cateo 1072-L-2008</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>912</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>CATEO</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>C</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1072-L-2008</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>1500</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.83245795815326,-24.05591417415155,0 -66.82820037033791,-24.06596219958608,0 -66.78932612151915,-24.0903760998376,0 -66.78734831479659,-24.09034819949859,0 -66.78675031060854,-24.0886420069211,0 -66.7830820604251,-24.08866083775077,0 -66.7740181948688,-24.04248340244598,0 -66.77906313143711,-24.0424578177165,0 -66.77906558213739,-24.042864068111,0 -66.7871805867354,-24.0428225645624,0 -66.80428387308412,-24.06178279565972,0 -66.81632945333892,-24.05641416636117,0 -66.81919164521327,-24.06182848480828,0 -66.83245795815326,-24.05591417415155,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Cateo 1440-M-2010</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>925</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>CATEO</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>C</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1440-M-2010</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>9479</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.82663106246557,-23.57255815988312,0 -66.90288549807021,-23.57213389191733,0 -66.90061018061748,-23.66774837024861,0 -66.82835226047094,-23.67755009188499,0 -66.81046514703519,-23.67647101630066,0 -66.80944334659381,-23.62556816498118,0 -66.82696280967875,-23.62547577959095,0 -66.82663106246557,-23.57255815988312,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Alegria 1</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>21</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1337-M-2009</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>ALEGRIA 1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>DISEMINADOS DE BORATO Y LITIO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>3000</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.58393072279908,-23.34043100892216,0 -66.58373615394679,-23.29588265352665,0 -66.62063041368985,-23.29574099801946,0 -66.62063933358834,-23.29766416687638,0 -66.6441968850706,-23.29756917031453,0 -66.6443260842163,-23.32438501531929,0 -66.64440234173949,-23.34019386068949,0 -66.58393072279908,-23.34043100892216,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Minerva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>448</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>37-V-2002</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>MINERVA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>ULEXITA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>230</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.66477231327117,-23.42295030617231,0 -66.66490779759837,-23.45003647222167,0 -66.65512175025313,-23.45007786308441,0 -66.65508973877589,-23.44358620778318,0 -66.65811348206265,-23.44357348744963,0 -66.65801153458536,-23.42297893578666,0 -66.66477231327117,-23.42295030617231,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Cateo 349-R-2005</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>937</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>CATEO</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>C</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>349-R-2005</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>996</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.79855122950531,-23.7268028130251,0 -66.79859658668985,-23.73424685091592,0 -66.79663521697945,-23.73425696873605,0 -66.7966901158312,-23.74328507341081,0 -66.79178634896981,-23.74331026986728,0 -66.79184093706819,-23.75233837461504,0 -66.78399435523613,-23.75237838247282,0 -66.78425821995994,-23.79639032345629,0 -66.77199377617625,-23.79645216644291,0 -66.77168925842065,-23.74484173775232,0 -66.77179981325452,-23.74477834798051,0 -66.77183285772806,-23.7448268461462,0 -66.79430903073602,-23.73193897766731,0 -66.79299694143269,-23.7300082169541,0 -66.79855122950531,-23.7268028130251,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Eduardo Daniel</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1270</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>120-M-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>EDUARDO DANIEL</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>SOLICITUD DE MINA VACANTE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.67372423034728,-23.51170318902172,0 -66.69209937478841,-23.505467320049,0 -66.69378689891741,-23.5097049722127,0 -66.67541406831472,-23.51595476036983,0 -66.67372423034728,-23.51170318902172,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Sulfa 9</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1561</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>67-R-1998</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>SULFA 9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>SULFATO DE SODIO Y BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>1337</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.78370745952655,-23.99237338015827,0 -66.79515197294892,-24.01578749037894,0 -66.80593472079082,-24.01121713474002,0 -66.82683277533369,-24.0517318490061,0 -66.80428387308412,-24.06178279565972,0 -66.77841701512644,-24.01135935851335,0 -66.7823426681809,-24.0104365615497,0 -66.77537669585675,-23.99602697538441,0 -66.78370745952655,-23.99237338015827,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Sulfa 8</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1560</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>72-R-1998</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>SULFA 8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>SULFATO DE SODIO Y BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>1417</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.78550261685659,-23.88312327331601,0 -66.78585196926875,-23.94090199911092,0 -66.75515674752356,-23.94105596483866,0 -66.75482103752448,-23.88327682213474,0 -66.78550261685659,-23.88312327331601,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Sulfa 7</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1559</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>71-R-1998</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>SULFA 7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>SULFATO DE SODIO Y BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>1667</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.77050842924378,-23.83805764749688,0 -66.77077549099728,-23.88319773999604,0 -66.73150286749852,-23.88338942895769,0 -66.73124941006475,-23.83824893015643,0 -66.77050842924378,-23.83805764749688,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Sulfa 6</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1558</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>70-R-1998</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>SULFA 6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>SULFATO DE SODIO Y BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>1396</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.7702420277538,-23.79291728786394,0 -66.77050842924378,-23.83805764749688,0 -66.73124941006475,-23.83824893015643,0 -66.73099657926338,-23.7931081644943,0 -66.7702420277538,-23.79291728786394,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>San Antonio</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1516</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>72-M-1999</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>SAN ANTONIO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>2165</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.76620705708871,-23.94100124362649,0 -66.78585196926875,-23.94090199911092,0 -66.78612567049599,-23.98604132302582,0 -66.76647391792162,-23.98614077765189,0 -66.76620705708871,-23.94100124362649,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Jorge</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1345</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>62-L-1998</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>JORGE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>2462</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.83496377115036,-23.94064289892925,0 -66.8352545726264,-23.98578167430472,0 -66.78612567049599,-23.98604132302582,0 -66.78585196926875,-23.94090199911092,0 -66.83496377115036,-23.94064289892925,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Chico</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>133</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1231-M-2009</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>CHICO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO Y DISEMINADO DE LITIO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>300</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.43266015542702,-23.0036915829792,0 -66.43271775318543,-23.02175070418657,0 -66.42296250872438,-23.02177707356669,0 -66.4229062093618,-23.00371792935102,0 -66.43266015542702,-23.0036915829792,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Chico 4</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>135</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1252-M-2009</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>CHICO 4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO Y DISEMINADO DE LITIO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>773</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.70377158238378,-23.70627531103179,0 -66.70864573856053,-23.70632782553798,0 -66.71684664944537,-23.7333498923312,0 -66.72665654385605,-23.7333041026321,0 -66.72675996076598,-23.75194490563372,0 -66.72676439638917,-23.7527439947983,0 -66.70402128678984,-23.75277199899951,0 -66.70377158238378,-23.70627531103179,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Payo IV</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>489</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1518-M-2010</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>PAYO IV</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>DISEMINADO DE LITIO Y BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>2981</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.73723481423713,-23.89772095240411,0 -66.73748129182378,-23.94114184113471,0 -66.73673949215473,-23.94114540070311,0 -66.73689288483752,-23.96814293879092,0 -66.7036419564385,-23.96829898182743,0 -66.70340387388437,-23.92443166545648,0 -66.6932191025609,-23.92447794061372,0 -66.69307747521069,-23.89792625172107,0 -66.73723481423713,-23.89772095240411,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Chico 3</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>134</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1251-M-2009</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>CHICO 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO Y DISEMINADO DE LITIO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>1400</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.7275727325526,-23.89776695740223,0 -66.69874207892821,-23.89790062422343,0 -66.69851102411609,-23.8548524368131,0 -66.72733214624343,-23.85471904005792,0 -66.7275727325526,-23.89776695740223,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Payo III</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>488</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1517-M-2010</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>PAYO III</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>DISEMINADO DE LITIO Y BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>2890</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.73689288483752,-23.96814293879092,0 -66.73699609209326,-23.98628523992396,0 -66.73773815006761,-23.98628167281959,0 -66.73799564297198,-24.03142123634767,0 -66.7292482903277,-24.03159277504792,0 -66.72934269744943,-24.0483127948283,0 -66.70407837380526,-24.04843106860524,0 -66.7036419564385,-23.96829898182743,0 -66.73689288483752,-23.96814293879092,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Cauchari Este</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>121</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1149-L-2009</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>CAUCHARI ESTE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO, LITIO Y SALES ALCALINAS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>5857</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.63684822671944,-23.65080762160464,0 -66.63616558917954,-23.50923329139182,0 -66.64455091792452,-23.50936043160973,0 -66.64621788440314,-23.51269356736499,0 -66.66194901194251,-23.50826936732761,0 -66.66286667693255,-23.51055770479925,0 -66.65366404034315,-23.51364329376432,0 -66.65451234773656,-23.51578651742706,0 -66.65113543101344,-23.51718813679842,0 -66.69502057558138,-23.61476258196308,0 -66.69081853430043,-23.61633318969352,0 -66.6942935753866,-23.6232871826397,0 -66.67220594038471,-23.6233844373137,0 -66.67234870366353,-23.65134056940398,0 -66.63684822671944,-23.65080762160464,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Payo VIII</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>494</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1522-M-2010</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>PAYO VIII</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>DISEMINADOS DE BORATO Y LITIO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>1344</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.63647784421367,-23.57413033533928,0 -66.63680422317327,-23.64171489968329,0 -66.63343125704373,-23.64172871312788,0 -66.63327443040933,-23.60911259078662,0 -66.60626397715807,-23.60922042132934,0 -66.60691514716322,-23.57424858843384,0 -66.63647784421367,-23.57413033533928,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Payo VII</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>493</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1521-M-2010</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>PAYO VII</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>DISEMINADOS DE BORATO Y LITIO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>2999</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.72676440089957,-23.75274480733949,0 -66.72706327502021,-23.80650694827807,0 -66.67763710039417,-23.80654689391418,0 -66.67735853821306,-23.75278336970283,0 -66.72676440089957,-23.75274480733949,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Payo V</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>491</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1519-M-2010</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>PAYO V</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>DISEMINADOS DE BORATO Y LITIO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>897</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.69853524653044,-23.85937013258661,0 -66.69874207892821,-23.89790062422343,0 -66.67811280093642,-23.89799295062947,0 -66.67791207378762,-23.85946229202304,0 -66.69853524653044,-23.85937013258661,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Payo VI</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>492</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1520-M-2010</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>PAYO VI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>DISEMINADOS DE BORATO Y LITIO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>2800</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.67763710039417,-23.80654689391418,0 -66.72706327502021,-23.80650694827807,0 -66.72733214624343,-23.85471904005792,0 -66.69851102411609,-23.8548524368131,0 -66.69853524653044,-23.85937013258661,0 -66.67791207378762,-23.85946229202304,0 -66.67763710039417,-23.80654689391418,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Miguel</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>440</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>381-M-2005</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>MIGUEL</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.78187143484749,-23.87250747993164,0 -66.78886714525351,-23.85563725356153,0 -66.79350684757503,-23.85730314919277,0 -66.78645712264033,-23.87411633804048,0 -66.78187143484749,-23.87250747993164,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Alegria 7</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>27</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1343-M-2009</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>ALEGRIA 7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>DISEMINADO DE BORATO YLITIO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>1277</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.58373615394679,-23.29588265352665,0 -66.58434794276307,-23.43558749049217,0 -66.57627070858082,-23.43561751367193,0 -66.57566737515735,-23.29591247701374,0 -66.58373615394679,-23.29588265352665,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Alegria 5</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>25</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1341-M-2009</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>ALEGRIA 5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>DISEMINADO DE BORATO YLITIO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>793</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.74253320905467,-23.37162305590125,0 -66.74279057763398,-23.41777663363727,0 -66.72725141703523,-23.4178497507028,0 -66.7270926767952,-23.3887886336776,0 -66.72804695025995,-23.38878419323329,0 -66.72795358254305,-23.37169157527613,0 -66.74253320905467,-23.37162305590125,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Alegria 4</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>24</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1340-M-2009</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>ALEGRIA 4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>DISEMINADO DE BORATO YLITIO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>999</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.6443260842163,-23.32438501531929,0 -66.69643638649886,-23.32416206813491,0 -66.69653917213982,-23.34387397312694,0 -66.69465090859535,-23.34388236109566,0 -66.69463791265235,-23.34138446037996,0 -66.68932435101023,-23.3414079395145,0 -66.68934765989442,-23.34592233117818,0 -66.6886730522625,-23.34592529972201,0 -66.68863638677694,-23.33881657526139,0 -66.65930282446325,-23.33894280749128,0 -66.65933326129118,-23.34510661677379,0 -66.64442635273994,-23.34516867625661,0 -66.6443260842163,-23.32438501531929,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>Alegria 3</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>23</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1339-M-2009</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>ALEGRIA 3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>DISEMINADO DE BORATO YLITIO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>3000</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.58408897946083,-23.37656189311707,0 -66.6594872666988,-23.37626218357339,0 -66.65953661318468,-23.38623367569358,0 -66.62310600115941,-23.38638308600208,0 -66.62332801748401,-23.43379345451746,0 -66.6147035806101,-23.43382764802389,0 -66.61471117955958,-23.43547089195111,0 -66.5843480406143,-23.43558749012593,0 -66.58408897946083,-23.37656189311707,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>Alegria 2</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>22</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>1338-M-2009</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>ALEGRIA 2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>DISEMINADO DE BORATO YLITIO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>3001</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.65933328893819,-23.3451122146531,0 -66.6594872666988,-23.37626218357339,0 -66.58408888165297,-23.37656189348228,0 -66.58393072240426,-23.34043091863244,0 -66.64440234130377,-23.3401937704008,0 -66.64442637976198,-23.34517427415251,0 -66.65933328893819,-23.3451122146531,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>La Yaveña</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>378</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>27-R-2000</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>LA YAVEÃ‘A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>SULFATO DE SODIO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>1120</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.7493184042856,-23.71170474339001,0 -66.77369860654119,-23.70160045664623,0 -66.79430903073602,-23.73193897766731,0 -66.77183285772806,-23.74482684614619,0 -66.7493184042856,-23.71170474339001,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>La Inundada</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1320</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>GRUPO MINERO</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>GM</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>101-C-1990</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>GRUPO MINERO LA INUNDADA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>537</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.79966204141454,-23.93231094738649,0 -66.79960647148118,-23.92328749910628,0 -66.80941559481992,-23.92322919728741,0 -66.80947935414153,-23.93225954082661,0 -66.79966204141454,-23.93231094738649,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>La Inundad Este</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1320</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>GRUPO MINERO</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>GM</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>101-C-1990</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>GRUPO MINERO LA INUNDADA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>537</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.79960647148118,-23.92328749910628,0 -66.79966204141454,-23.93231094738649,0 -66.78984028143653,-23.93236174954784,0 -66.78976807033627,-23.92334820464339,0 -66.79960647148118,-23.92328749910628,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>La Inundada Sud</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1320</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>GRUPO MINERO</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>GM</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>101-C-1990</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>GRUPO MINERO LA INUNDADA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>537</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.79979928068953,-23.95156610246172,0 -66.79001184621826,-23.95583002485287,0 -66.7899033757267,-23.94138959521941,0 -66.79972697737323,-23.94133551485979,0 -66.79979928068953,-23.95156610246172,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>Susques</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1320</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>GRUPO MINERO</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>GM</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>101-C-1990</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>GRUPO MINERO LA INUNDADA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>537</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.78983566520293,-23.93236177327728,0 -66.79966204141454,-23.93231094738649,0 -66.79972697737323,-23.94133551485979,0 -66.7899033757267,-23.94138959521941,0 -66.78983566520293,-23.93236177327728,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>Jujuy</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1320</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>GRUPO MINERO</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>GM</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>101-C-1990</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>GRUPO MINERO LA INUNDADA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>537</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.79972697737323,-23.94133551485979,0 -66.79966204141454,-23.93231094738649,0 -66.80947935414153,-23.93225954082661,0 -66.8095429523032,-23.94127515873751,0 -66.79972697737323,-23.94133551485979,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Osiris</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1321</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>GRUPO MINERO</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>GM</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>104-I-1990</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>GRUPO MINERO OSIRIS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>ULEXITA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>300</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.758081227467,-23.8511493142461,0 -66.7600655544242,-23.84211401820939,0 -66.7698945122481,-23.84213194199989,0 -66.76789715359581,-23.85115504682414,0 -66.758081227467,-23.8511493142461,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Becerro de Oro</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1321</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>GRUPO MINERO</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>GM</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>104-I-1990</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>GRUPO MINERO OSIRIS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>ULEXITA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>300</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.75453309473161,-23.8421044627807,0 -66.75456837848289,-23.8348871300063,0 -66.76682721743636,-23.83490309603567,0 -66.76682218799176,-23.8421257744182,0 -66.7600655544242,-23.84211401820939,0 -66.75453309473161,-23.8421044627807,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>Alsina</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1321</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>GRUPO MINERO</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>GM</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>104-I-1990</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>GRUPO MINERO OSIRIS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>ULEXITA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>300</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.78131077863205,-23.79664235910813,0 -66.78928898662251,-23.79664112162698,0 -66.7892938173917,-23.80776796675527,0 -66.78575074132046,-23.80776646340964,0 -66.78131344197149,-23.80775018010208,0 -66.78131030522053,-23.8000577832542,0 -66.78131077863205,-23.79664235910813,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>Angelina</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1154</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>59-I-1998</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>ANGELINA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>GRUPO MINERO LOS BOROS S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>2347</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.62150826298714,-23.46313577867164,0 -66.62739482149422,-23.4606939037297,0 -66.62739869192788,-23.46151290258692,0 -66.64653557221912,-23.46143475927595,0 -66.64766427880247,-23.46441539432682,0 -66.66614259319701,-23.45845850329883,0 -66.6661288976499,-23.45572849654592,0 -66.67138558979049,-23.45570596426594,0 -66.69510002713479,-23.49894049168994,0 -66.69006506670358,-23.50035800565111,0 -66.68366371587405,-23.48427880165493,0 -66.6560982813692,-23.49361925966409,0 -66.66194921045644,-23.50826990821408,0 -66.6462178874871,-23.51269419937172,0 -66.62150826298714,-23.46313577867164,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>Luisa</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1395</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>61-I-1998</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>LUISA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>GRUPO MINERO LOS BOROS S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO (ULEXITA)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>4707</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.7215757343774,-23.61724751841208,0 -66.7178647967817,-23.60711328039559,0 -66.72626345918177,-23.60362663292459,0 -66.72726004224651,-23.60372940915769,0 -66.72732122689327,-23.60318749436036,0 -66.73970920924705,-23.5980434181138,0 -66.78438562447117,-23.6971450266635,0 -66.78271859204362,-23.697837369966,0 -66.77529375838131,-23.68691010609626,0 -66.76694288423448,-23.69172460022556,0 -66.77369850595029,-23.70158339335224,0 -66.74036875796206,-23.71541881171041,0 -66.72401042291291,-23.68272607109265,0 -66.72400335979516,-23.68124885175216,0 -66.74215949553242,-23.68127351671603,0 -66.74674630792943,-23.68561143420549,0 -66.75095179790171,-23.68422968835985,0 -66.73691910025501,-23.67112661851736,0 -66.71899393767301,-23.62520569010072,0 -66.72391081161821,-23.62336211649228,0 -66.7215757343774,-23.61724751841208,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>Luisa</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1395</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>61-I-1998</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>LUISA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>GRUPO MINERO LOS BOROS S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO (ULEXITA)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>4707</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.69081853430043,-23.61633318969352,0 -66.69502399827336,-23.61476130262301,0 -66.69571852064793,-23.61630408003795,0 -66.71248406101476,-23.60934674680142,0 -66.71607051124921,-23.61895911435214,0 -66.70912183722543,-23.62111907217166,0 -66.71163531834806,-23.62748178543843,0 -66.72161873978187,-23.65305904131003,0 -66.71220512705872,-23.65307079389633,0 -66.71221545630846,-23.65914157823795,0 -66.7075524206461,-23.64981516405765,0 -66.71331989666417,-23.64981311332089,0 -66.71329687406974,-23.63446204355373,0 -66.70742374355818,-23.63446429137071,0 -66.70753547881105,-23.6497812937801,0 -66.70498210449202,-23.64467360646583,0 -66.70486735318438,-23.62324014415415,0 -66.69429357871745,-23.62328781463122,0 -66.69081853430043,-23.61633318969352,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>Arturo</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1160</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>60-I-1998</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>ARTURO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>GRUPO MINERO LOS BOROS S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO (ULEXITA)</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>5050</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.69571767693519,-23.61631130675518,0 -66.65113543101344,-23.51718813679842,0 -66.6545102675463,-23.5157816505989,0 -66.66037403585609,-23.53061345683946,0 -66.66958740581323,-23.52751540460066,0 -66.67288502417486,-23.53652275620966,0 -66.68210114486271,-23.53297043553362,0 -66.67898879555577,-23.52490788250072,0 -66.69716208469254,-23.51818011772566,0 -66.69547443592408,-23.51394251139651,0 -66.67710246022288,-23.52016974869444,0 -66.67898877558363,-23.52490780674595,0 -66.66958740581323,-23.52751540460066,0 -66.66620996912953,-23.51903468620099,0 -66.67541406831472,-23.51595476036983,0 -66.69378689891741,-23.50970497221271,0 -66.69209937478841,-23.505467320049,0 -66.67372423034728,-23.51170318902172,0 -66.67239120342694,-23.50836449431628,0 -66.68591341969845,-23.50275344560773,0 -66.69041205977943,-23.50122964433137,0 -66.69029480721738,-23.50093501218846,0 -66.69510002713479,-23.49894049168994,0 -66.7397083680408,-23.5980506450251,0 -66.72732066744476,-23.60319264330675,0 -66.72826455889019,-23.59474751911038,0 -66.72435866850405,-23.59437673966848,0 -66.72603666148423,-23.57940064687476,0 -66.72013859752997,-23.57885179169999,0 -66.71751399131871,-23.60280218529219,0 -66.72625859784189,-23.60363342714498,0 -66.7178658907353,-23.60711625479196,0 -66.71633067135859,-23.60300411237179,0 -66.71077459551425,-23.60476459285697,0 -66.71248485703237,-23.60934900031184,0 -66.69571767693519,-23.61631130675518,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>Victoria I</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1590</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>42</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>65-E-2002</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>VICTORIA I</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>ELECTROQUIMICA EL CARMEN S.A. Y MINERA EXAR S.A. (EXPLORACION CON OPCION A USUFRUCTO)</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>300</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.64360601467425,-23.43869651073185,0 -66.64367248769163,-23.45241768248393,0 -66.63258308310107,-23.45246303400309,0 -66.63249828521357,-23.43465044107302,0 -66.63849891161139,-23.43462601604949,0 -66.63851856619716,-23.4387174028273,0 -66.64360601467425,-23.43869651073185,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>Victoria I</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1590</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>43</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>65-E-2002</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>VICTORIA I</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>ELECTROQUIMICA EL CARMEN S.A. Y MINERA EXAR S.A. (EXPLORACION CON OPCION A USUFRUCTO)</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>300</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.65145830835488,-23.44360140712415,0 -66.65508973877589,-23.44358620778318,0 -66.65512175025313,-23.45007786308441,0 -66.65632876254125,-23.45007279110931,0 -66.65638575901724,-23.46160417579056,0 -66.64766427880247,-23.46441539432682,0 -66.64697935460382,-23.46260667724615,0 -66.65155144605876,-23.46258764643068,0 -66.65145830835488,-23.44360140712415,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>Nelida</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1436</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>44</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>56-C-1995</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>NELIDA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>ELECTROQUIMICA EL CARMEN S.A. Y MINERA EXAR S.A. (CONTRATO DE EXPLOTACION)</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>SOLICITUD DE MINA VACANTE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.71058505436028,-23.3494596507519,0 -66.71063313444081,-23.35848838104441,0 -66.70085390778759,-23.35853247694741,0 -66.70080648921794,-23.34950372763353,0 -66.71058505436028,-23.3494596507519,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>Eduardo</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1268</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>183-D-1990</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>EDUARDO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>ELECTROQUIMICA EL CARMEN S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.69463791265235,-23.34138446037997,0 -66.69466140117478,-23.34589884697619,0 -66.69857272961937,-23.34588144554959,0 -66.69860108232047,-23.35129870149508,0 -66.68966430651105,-23.35133832628966,0 -66.68965497555314,-23.34953257130825,0 -66.68525362426476,-23.34955189756758,0 -66.68523508420877,-23.34594038300939,0 -66.68934765989442,-23.34592233117819,0 -66.68932435101023,-23.34140793951448,0 -66.69463791265235,-23.34138446037997,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>Hekaton</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1329</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>150-M-1992</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>HEKATON</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>ELECTROQUIMICA EL CARMEN S.A. Y MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>200</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.65141993097512,-23.43577231346723,0 -66.65155144605876,-23.46258764643068,0 -66.64697827803407,-23.46260668171147,0 -66.6469285686368,-23.45240421665281,0 -66.64367248769163,-23.45241768248393,0 -66.64359201196319,-23.4358047796246,0 -66.65141993097512,-23.43577231346723,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>San Nicolas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1535</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>191-R-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>SAN NICOLAS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>BORAX ARGENTINA S.A. Y MINERA EXAR S.A. (USUFRUCTO)</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.65946892283553,-23.50208465733164,0 -66.66866288180849,-23.4989980529499,0 -66.67035308760401,-23.50323361919721,0 -66.67202835636455,-23.50745559374757,0 -66.66286687545389,-23.51055824568424,0 -66.65946892283553,-23.50208465733164,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>Clotilde</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1218</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>48</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>121-D-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>CLOTILDE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>TERRAZAS MERCEDES ADELMA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.67710246022288,-23.52016974869444,0 -66.69547443592408,-23.51394251139651,0 -66.69716208469254,-23.51818011772566,0 -66.6787973449035,-23.52442630888126,0 -66.67710246022288,-23.52016974869444,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>Irene</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1337</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>49</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>140-N-1992</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>IRENE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>TRIBORO S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>200</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.62739869192788,-23.46151290258692,0 -66.62735603339532,-23.45248413738971,0 -66.6469285686368,-23.45240421665281,0 -66.64697255782657,-23.46143294747727,0 -66.62739869192788,-23.46151290258692,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00050">
+			<name>Maria angela</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>413</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>177-Z-2003</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>MARIA ANGELA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>ZEBALLOS, OSCAR ADOLFO Y MINERA EXAR S.A.</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>100</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.68520825887661,-23.34052310374575,0 -66.68528705619956,-23.35587203972229,0 -66.68870982912432,-23.35585701723593,0 -66.68875178094615,-23.3639829064031,0 -66.68532879956771,-23.36399793472285,0 -66.68529169342361,-23.35677491736452,0 -66.68157023924411,-23.35679116642183,0 -66.68148725769999,-23.34053934018626,0 -66.68520825887661,-23.34052310374575,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00051">
+			<name>Mascota</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1418</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>51</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>394-B-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>MASCOTA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.74215949553242,-23.68127351671603,0 -66.7297043385412,-23.66946782069799,0 -66.7300852447778,-23.66934143218974,0 -66.7134983879445,-23.6269072239268,0 -66.71716703329524,-23.62564634534645,0 -66.7337740175528,-23.66811734020415,0 -66.73691910025501,-23.67112661851736,0 -66.75095179790171,-23.68422968835987,0 -66.74674630792943,-23.68561143420549,0 -66.74215949553242,-23.68127351671603,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00052">
+			<name>Union</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1579</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>52</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>336-C-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>UNION</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.71163531834806,-23.62748178543843,0 -66.7134983879445,-23.6269072239268,0 -66.7300852447778,-23.66934143218974,0 -66.72824903540933,-23.66997448895032,0 -66.72476659597076,-23.66111681316638,0 -66.72161873978187,-23.65305904131003,0 -66.71163531834806,-23.62748178543843,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00053">
+			<name>Montes de Oca</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1427</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>53</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>340-C-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>MONTES DE OCA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.71716703329524,-23.62564634534645,0 -66.71899393767301,-23.62520569010074,0 -66.73691910025501,-23.67112661851736,0 -66.7337740175528,-23.66811734020415,0 -66.71716703329524,-23.62564634534645,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00054">
+			<name>Saenz Peña</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1512</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>54</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>354-C-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>SAENZ PEï¿½A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.7240008731913,-23.67615440815011,0 -66.72400028197728,-23.67537100247574,0 -66.73599350075719,-23.67537217945318,0 -66.74215949553242,-23.68127351671603,0 -66.72400335979516,-23.68124885175216,0 -66.7240008731913,-23.67615440815011,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00055">
+			<name>Demasia Saenz Peña</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1254</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>55</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>354-C-1944/1</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>DEMASIA SAENZ PEï¿½A</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.72399566091997,-23.66864203263133,0 -66.72824903540933,-23.66997448895032,0 -66.7297043385412,-23.66946782069799,0 -66.73599350075719,-23.67537217945318,0 -66.72400028197728,-23.67537100247574,0 -66.72399566091997,-23.66864203263133,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00056">
+			<name>Julia</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1355</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>56</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>347-C-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>JULIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.71223552243562,-23.67617915471197,0 -66.7240008731913,-23.67615440815011,0 -66.72400335979516,-23.68124885175216,0 -66.7240150467515,-23.68368948655396,0 -66.71224503087719,-23.68370153856827,0 -66.71223552243562,-23.67617915471197,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00057">
+			<name>Uno</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1580</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>57</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>345-C-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>UNO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.78778630903489,-23.72231284567794,0 -66.7960985427318,-23.71752314993712,0 -66.80132064763293,-23.72520436647382,0 -66.79299178959252,-23.72999957610559,0 -66.78778630903489,-23.72231284567794,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00058">
+			<name>Dos</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1266</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>58</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>344-C-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>DOS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.7825844919816,-23.71465957698859,0 -66.79089644811329,-23.7098701639128,0 -66.7960985427318,-23.71752314993712,0 -66.78778630903489,-23.72231284567794,0 -66.7825844919816,-23.71465957698859,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00059">
+			<name>Tres</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1575</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>59</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>343-C-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>TRES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.77738329099402,-23.70700620019503,0 -66.78569496898727,-23.70221697934172,0 -66.79089644811329,-23.7098701639128,0 -66.7825844919816,-23.71465957698859,0 -66.77738329099402,-23.70700620019503,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00060">
+			<name>Cuatro</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1227</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>60</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>352-C-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>CUATRO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.77738329099402,-23.70700620019503,0 -66.77218270466581,-23.69935253492474,0 -66.78049400751854,-23.69456368719108,0 -66.78569496898727,-23.70221697934172,0 -66.77738329099402,-23.70700620019503,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00061">
+			<name>Cinco</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1214</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>61</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>351-C-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>CINCO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.78049400751854,-23.69456368719108,0 -66.77218270466581,-23.69935253492474,0 -66.76697806063136,-23.69170438274209,0 -66.77529375838131,-23.68691010609626,0 -66.78049400751854,-23.69456368719108,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00062">
+			<name>Sarmiento</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1550</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>62</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>190-R-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>SARMIENTO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.78131344197149,-23.80775018010206,0 -66.78575074132046,-23.80776646340965,0 -66.77422172640797,-23.82768943129479,0 -66.772977257159,-23.82768475190643,0 -66.76978820182163,-23.82768039533226,0 -66.78131344197149,-23.80775018010206,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00063">
+			<name>Porvenir</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1472</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>63</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>116-D-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>PORVENIR</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.7697931669919,-23.81998814367393,0 -66.78131030522053,-23.80005778325421,0 -66.78131344197149,-23.80775018010206,0 -66.76978820182163,-23.82768039533226,0 -66.7697931669919,-23.81998814367393,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00064">
+			<name>Avellaneda</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1161</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>64</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>395-B-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>AVELLANEDA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.77686484142028,-23.80006045756314,0 -66.78131030522053,-23.80005778325421,0 -66.7697931669919,-23.81998814367393,0 -66.76535729011805,-23.81998566753543,0 -66.77686484142028,-23.80006045756314,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00065">
+			<name>Moreno</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1430</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>65</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>221-S-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>MORENO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.75828616655475,-23.82768666098962,0 -66.75829063541382,-23.81997805686523,0 -66.76535729011805,-23.81998566753543,0 -66.7697931669919,-23.81998814367393,0 -66.76978820182163,-23.82768039533226,0 -66.75828616655475,-23.82768666098962,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00066">
+			<name>Buenos Aires</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1172</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>66</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>122-D-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>BUENOS AIRES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.75458126777937,-23.82766529582362,0 -66.76686069336684,-23.82767593592019,0 -66.76682721743636,-23.83490309603566,0 -66.75456837848289,-23.8348871300063,0 -66.75458126777937,-23.82766529582362,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00067">
+			<name>Alicia</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1148</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>67</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>389-B-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>ALICIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.76682466567313,-23.83490310873147,0 -66.76686069336684,-23.82767593592019,0 -66.772977257159,-23.82768475190643,0 -66.77290942625442,-23.84213987109145,0 -66.7698945122481,-23.84213194199989,0 -66.76682218799176,-23.8421257744182,0 -66.76682466567313,-23.83490310873147,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00068">
+			<name>Clarisa</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1216</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>68</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>402-B-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>CLARISA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.76990451532365,-23.84493924392945,0 -66.78179662830998,-23.84224580970702,0 -66.78366634655083,-23.8492668174531,0 -66.77174954691348,-23.85195294612003,0 -66.76990451532365,-23.84493924392945,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00069">
+			<name>Demasia Clarisa</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1233</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>69</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>402-B-1944/1</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>DEMASIA CLARISA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.7698945122481,-23.84213194199989,0 -66.77290942625442,-23.84213987109145,0 -66.77904413175088,-23.84214825082094,0 -66.78179662830998,-23.84224580970702,0 -66.76990451532365,-23.84493924392945,0 -66.7698945122481,-23.84213194199989,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00070">
+			<name>Maria Esther</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1407</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>259-M-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>MARIA ESTHER</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.7895620918238,-23.82395850619192,0 -66.79142573594451,-23.83096104621834,0 -66.78812779905215,-23.83875762098775,0 -66.78366634655083,-23.8492668174531,0 -66.78179662830998,-23.84224580970702,0 -66.7895620918238,-23.82395850619192,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00071">
+			<name>Sahara</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1513</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>71</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>117-D-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>SAHARA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.78812779905215,-23.83875762098775,0 -66.79499420015766,-23.84119077258889,0 -66.79458351534319,-23.84215422128361,0 -66.78886979556907,-23.85563723998741,0 -66.78072714538544,-23.87488889254315,0 -66.77389564322908,-23.87227765640399,0 -66.78366634655083,-23.8492668174531,0 -66.78812779905215,-23.83875762098775,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00072">
+			<name>Paulina</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1465</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>72</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>195-S-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>PAULINA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.79458351534319,-23.84215422128361,0 -66.80742390844019,-23.84687352947702,0 -66.80427946252436,-23.85417089749112,0 -66.79271596996172,-23.846561511613,0 -66.79458351534319,-23.84215422128361,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00073">
+			<name>Siberia</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1552</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>73</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>206-B-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>SIBERIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.79271596996172,-23.846561511613,0 -66.80427946252436,-23.85417089749112,0 -66.7914870969764,-23.84946139003104,0 -66.79271596996172,-23.846561511613,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00074">
+			<name>Ines</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1334</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>74</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>220-S-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>INES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.78886979556907,-23.85563723998741,0 -66.7914870969764,-23.84946139003104,0 -66.80427946252436,-23.85417089749112,0 -66.80166650778375,-23.86023407457559,0 -66.78886979556907,-23.85563723998741,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00075">
+			<name>Elena</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1277</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>75</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>353-C-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>ELENA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.78104492268422,-23.88998295862361,0 -66.78276709949974,-23.88997357453482,0 -66.78930020039714,-23.88987799354173,0 -66.7908428168884,-23.88992216494751,0 -66.79100969847454,-23.90978436444619,0 -66.79105641774022,-23.91700668039495,0 -66.78123581367997,-23.91706006216603,0 -66.78104492268422,-23.88998295862361,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00076">
+			<name>Emma</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1280</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>76</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>350-C-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>EMMA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.78268559414147,-23.87642431271923,0 -66.78923066428897,-23.87639089257355,0 -66.78930020039714,-23.88987799354173,0 -66.78276709949974,-23.88997357453482,0 -66.78268559414147,-23.87642431271923,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00077">
+			<name>Julio A. Roca</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1356</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>77</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>444-P-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>JULIO A. ROCA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.79105641774022,-23.91700668039495,0 -66.79100969847454,-23.90978436444619,0 -66.79885982602706,-23.90974007831937,0 -66.8051640713815,-23.91778641834344,0 -66.79106160950465,-23.91785927600989,0 -66.79105641774022,-23.91700668039495,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00078">
+			<name>Uruguay</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1581</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>78</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>89-N-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>URUGUAY</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.79106160950465,-23.91785927600989,0 -66.80515581981021,-23.9177861004364,0 -66.80941559481992,-23.92322919728741,0 -66.7910840733288,-23.92333764486601,0 -66.79106160950465,-23.91785927600989,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00079">
+			<name>Maria Central</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1403</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>79</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>43-E-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>MARIA CENTRAL</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.79114823926821,-23.78374076072588,0 -66.7980077066284,-23.78374084605524,0 -66.79803734987493,-23.79662953189852,0 -66.79114272949691,-23.79663957381386,0 -66.79114823926821,-23.78374076072588,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00080">
+			<name>Linda</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1386</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>80</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>160-T-1937</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>LINDA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.71222101499014,-23.66865434890408,0 -66.72399566091997,-23.66864203263133,0 -66.7240008731913,-23.67615440815011,0 -66.71223552243562,-23.67617915471197,0 -66.71222101499014,-23.66865434890408,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00081">
+			<name>Delia</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1230</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>81</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>42-E-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>DELIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.71220512705872,-23.65307079389633,0 -66.72161873978187,-23.65305904131003,0 -66.72476659597076,-23.66111681316637,0 -66.72398215872343,-23.66111704864876,0 -66.71221878464385,-23.66113155602939,0 -66.71220512705872,-23.65307079389633,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00082">
+			<name>Archibald</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1156</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>82</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>377-C-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>ARCHIBALD</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.71420747917219,-23.69874915762642,0 -66.72403199974326,-23.69873042245903,0 -66.72599330904832,-23.69872945241164,0 -66.72599535013892,-23.70625905622818,0 -66.71422654085636,-23.70626948718444,0 -66.71420747917219,-23.69874915762642,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00083">
+			<name>Zoila</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1609</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>83</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>341-C-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>ZOILA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.70742374355818,-23.63446429137071,0 -66.71329687406974,-23.63446204355373,0 -66.71331989666417,-23.64981311332089,0 -66.70753575888928,-23.64981514980892,0 -66.70742374355818,-23.63446429137071,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00084">
+			<name>Juancito</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1353</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>84</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>339-C-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>JUANCITO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.71226566419762,-23.69874772177117,0 -66.7122516070618,-23.69122311612971,0 -66.72401534980186,-23.69121351746145,0 -66.72403199974326,-23.69873042245903,0 -66.71420747917219,-23.69874915762642,0 -66.71226566419762,-23.69874772177117,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00085">
+			<name>Maria Teresa</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1413</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>85</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>378-C-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>MARIA TERESA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.72401534980186,-23.69121351746145,0 -66.7122516070618,-23.69122311612971,0 -66.71224503087719,-23.68370153856827,0 -66.7240150467515,-23.68368948655396,0 -66.72401534980186,-23.69121351746145,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00086">
+			<name>Graziela</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1316</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>86</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>438-G-1944</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>GRAZIELA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>-</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.71221878464385,-23.66113155602939,0 -66.72398215872343,-23.66111704864876,0 -66.72399566091997,-23.66864203263133,0 -66.71222101499014,-23.66865434890409,0 -66.71221878464385,-23.66113155602939,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00087">
+			<name>Verano I</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>1587</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>87</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>MINA CONCEDIDA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>299-M-2004</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>VERANO I</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>MORALES, CAMILO ALBERTO Y OTRO</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>2488</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>CONCEDIDA, EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Exploracion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.78009750677356,-23.98607209837033,0 -66.77815514989568,-23.99483184261163,0 -66.77537669585675,-23.99602697538441,0 -66.77785152414806,-24.00114683552797,0 -66.77058984371355,-24.00118350471386,0 -66.77796071964582,-24.01930269889854,0 -66.77797354450341,-24.02143389522547,0 -66.77638122413293,-24.02275194782025,0 -66.7789697409344,-24.02696982115579,0 -66.77906313143711,-24.0424578177165,0 -66.73805985750927,-24.04266094592309,0 -66.73773815006761,-23.98628167281959,0 -66.78009750677356,-23.98607209837033,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00088">
+			<name>Chin Chin Chuli II</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>140</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>88</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>RG_TIPO</td>
+
+<td>SOLICITUD DE MINA</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO</td>
+
+<td>MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>EXPEDIENTE</td>
+
+<td>201-C-2004</td>
+
+</tr>
+
+<tr>
+
+<td>NOMBRE</td>
+
+<td>CHIN CHIN CHULI II</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TITULAR_AC</td>
+
+<td>COSTA IBAÃ‘EZ, VICENTE VICTOR; ROMAROVSKY, LEON Y COSTA, VICENTE JUAN ANTONIO</td>
+
+</tr>
+
+<tr>
+
+<td>TIPO_MINER</td>
+
+<td>BORATO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SUPERFICIE</td>
+
+<td>931</td>
+
+</tr>
+
+<tr>
+
+<td>ESTADO</td>
+
+<td>EN TRAMITE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Explor_Exp</td>
+
+<td>Explotacion</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-66.65145830835488,-23.44360140712415,0 -66.65141993097512,-23.43577231346721,0 -66.64359201196319,-23.4358047796246,0 -66.64360601467425,-23.43869651073185,0 -66.63851856619716,-23.43871740282729,0 -66.63849891161139,-23.43462601604948,0 -66.62382145815128,-23.43468535148244,0 -66.62381726346956,-23.43379150051334,0 -66.62332801748401,-23.43379345451746,0 -66.62323277213602,-23.41346960128346,0 -66.65747462899994,-23.41332925520981,0 -66.65752233166087,-23.42298099604165,0 -66.65801153458536,-23.42297893578666,0 -66.65811406919706,-23.44357348497399,0 -66.65145830835488,-23.44360140712415,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
